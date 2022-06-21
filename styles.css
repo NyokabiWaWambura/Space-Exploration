@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    color: #FF3C38;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+#hero {
+    background-image: url("images/space.webp");
+    background-size: cover;
+    padding: 10px 0 10px 0;
+}
+
+#main-logo {
+    width: 70px;
+}
+
+#title {
+    text-shadow: 10px 0px 6px black;
+    font-size: 60px;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: green;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color: #FF8C42;
+    font-weight: 800;
+    border-radius:20px;
+    margin:50px;
+}
+
+.underline {
+    border: 2px #FF3C38;
+    border-style: dotted dashed solid double;
+    
+}
+   
